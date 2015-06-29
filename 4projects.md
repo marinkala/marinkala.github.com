@@ -5,7 +5,7 @@ excerpt: "This is my landing page"
 permalink: /projects/
 ---
 
-#Graduate
+#Graduate Projects
 
 ##Twitter Information Diffusion and Cooperatioin
 I have been working on various aspects of information diffusion on Twitter in the context of natural disaster. 
@@ -14,7 +14,8 @@ Currently, I am investigating the conversational activity that takes place throu
 
 ##Protective Decision-making on Social Media in Crisis
 I am currently working in collaboration with the National Center for Atmospheric Research (NCAR) on project CHIME(link), in which we are investigating “protective decision-making” practices of Twitterers active during coastal hazards, such as 2012 Hurricane Sandy.
-#Analytics for OpenStreetMap History Data
+
+##Analytics for OpenStreetMap History Data
 We are developing epic-osm: A software framework for OpenStreetMap full-history analysis.
 We have built a framework on Ruby and MongoDB with a static Jekyll and Javascript front-end which enables analysis of OSM history files.
 
@@ -32,7 +33,7 @@ We used spectral methods to measure housing segregation at both the individual a
 
 ![SSI](/assets/SSI.png)
 
-#Undergraduate
+#Undergraduate Projects
 
 ##Creating Background Sets for LSI Classification
 We developed a method for mining the web to improve text classification,by creating a background text set. Our algorithm
