@@ -11,4 +11,4 @@ I am currently a research assistant with [Project EPIC](http://epic.cs.colorado.
 
 My research interests are in Crisis Informatics, Computational Social Sciene, and Network Science.
 
-Previously, I studied Sociology at [University of Illinois at Urbana-Champaign](http://illinois.edu/) and worked as social science researcher at [Ethnography & Evaluation Research](http://www.colorado.edu/eer/)
+Previously, I studied Sociology at [University of Illinois at Urbana-Champaign](http://illinois.edu/) and worked as social science researcher at [Ethnography & Evaluation Research](http://www.colorado.edu/eer/).
