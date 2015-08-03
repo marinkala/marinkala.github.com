@@ -40,7 +40,7 @@ We used spectral methods to measure housing segregation at both the individual a
 We developed a method for mining the web to improve text classification,by creating a background text set. Our algorithm
 used the information gain criterion to create lists of importantwords for each class of a text categorization problem. It then
 searched the web on various combinations of these words to produce a set of related data. We used this set of background text with Latent Semantic Indexing classification to create an expanded term by document matrix on which singular value
-decomposition was done.
+decomposition was done. This work has been published at [FLAIRS](https://www.aaai.org/Papers/FLAIRS/2006/Flairs06-117.pdf).
 
 ##Protein Folding
 I worked on an automated tool for detecting critical events in the folding landscape of proteins. We developed a new method that can detect critical events such as bends and loops and compare among different trajectories of a simple protein model of 60 beads. This work was supported by the CRA-W Distributed Mentor Project.
