@@ -13,7 +13,7 @@ Our [CSCW paper](https://www.cs.colorado.edu/~palen/palen_papers/CSCW-SandyRetwe
 Currently, I am investigating the conversational activity that takes place through the @mention convention in disaster.
 
 ##Protective Decision-making on Social Media in Crisis
-I am currently working in collaboration with the National Center for Atmospheric Research (NCAR) on project CHIME(link), in which we are investigating “protective decision-making” practices of Twitterers active during coastal hazards, such as 2012 Hurricane Sandy.
+I am currently working in collaboration with the National Center for Atmospheric Research (NCAR) on project [CHIME](https://www.mmm.ucar.edu/communicating-hazard-information-modern-environment-chime), in which we are investigating “protective decision-making” practices of Twitterers active during coastal hazards, such as 2012 Hurricane Sandy.
 
 ##Analytics for OpenStreetMap History Data
 We are developing epic-osm: A software framework for OpenStreetMap full-history analysis.
