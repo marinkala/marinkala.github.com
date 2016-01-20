@@ -5,7 +5,7 @@ excerpt: "This is my cv"
 permalink: /cv/
 ---
 
-[Marina Kogan's full CV](/assets/CV_long.pdf)
+[Full CV](/assets/CV_long.pdf)
 
 
 
