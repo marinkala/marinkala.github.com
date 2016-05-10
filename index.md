@@ -5,7 +5,7 @@ excerpt: "This is my landing page"
 
 ![headshot](/assets/head.jpg)
 
-I'm a fourth year Computer Science PhD student at the [University of Colorado Boulder](http://colorado.edu) in [Human Centered Computing](http://hcc.colorado.edu).
+I'm a PhD candidate in Computer Science at the [University of Colorado Boulder](http://colorado.edu) in [Human Centered Computing](http://hcc.colorado.edu).
 
 I am currently a research assistant with [Project EPIC](http://epic.cs.colorado.edu)(Empowering the Public with Information in Crisis), working with Professor [Leysia Palen](https://www.cs.colorado.edu/~palen/).
 
