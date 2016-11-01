@@ -7,7 +7,7 @@ permalink: /projects/
 
 # Graduate Projects
 
-## Twitter Information Diffusion and Cooperatioin
+## Twitter Information Diffusion and Cooperation
 I have been working on various aspects of information diffusion on Twitter in the context of natural disaster. 
 Our [CSCW paper](https://www.cs.colorado.edu/~palen/palen_papers/CSCW-SandyRetweetPaperCR.pdf) on the retweet patterns of geo-vulnerable Twitter users during 2012 Hurricane Sandy, investigates whether they spread information differently, including what and whose content they chose to propagate. We investigate whether the Twitter-based relationships are preexisting or if they are newly formed because of the disaster, and if so if they persist. We find that the people in the path of the disaster favor in their retweeting locally-created tweets and those with locally-actionable information. They also form denser networks of information propagation during disaster than before or after.
 Currently, I am investigating the conversational activity that takes place through the @mention convention in disaster.
