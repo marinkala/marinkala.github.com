@@ -15,7 +15,7 @@ permalink: /teaching/
 > 
 > **<span style="color:grey">Section 004:</span> Wednesdays** 1:00–1:50 — Dane Smith Hall 232
 
-**Dr. Marina Kogan**  
+**Dr. Marina Kogan**               
 <mailto:mkogan@unm.edu>  
 
 ## **Class Schedule**
