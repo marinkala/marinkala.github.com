@@ -175,18 +175,19 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 <span style="color:red">Final projects due</span>
 
-##Syllabus Details
+## Syllabus Details
+
 Society is continuously challenged by new advances, inventions, and the social and ethical repercussions of technology.
 
 This class explores these issues, from the perspective of technology policy, design, and potential impolications for the lived experiences of the technology users. Throughout the course we will cover privacy, intellectual property, issues of digital divide, algorithmic bias, professional responsibility and codes, online communities, chatbots, and the social and legal impacts of these and other technologies.
 
-###Assignments
+### Assignments
 Every week you will have to turn in a one-page written essay. These should be turned in, printed out, each week in class.
 
-###Expectations
+### Expectations
 You are expect to attend class, to have completed the assigned readings, and to participate in class discussion. If you must miss a class, please send an email in advance. All assignments should be done individually.
 
-###Grades
+### Grades
 * Class discussion – 40%
 * Short weekly assignments – 40%
 * Final project – 20%
