@@ -6,7 +6,7 @@ permalink: /teaching/
 ---
 
 ### CS 293
-# Social and Ethical Issues in Computing
+# **Social and Ethical Issues in Computing**
 
 ## <span style="color:orange">Spring 2018</span>
 
@@ -15,12 +15,12 @@ permalink: /teaching/
 > 
 > **<span style="color:grey">Section 004:</span> Wednesdays** 1:00–1:50 — Dane Smith Hall 232   
 
-## Class Schedule
-Choose *at least three* to read unless otherwise noted. Readings that are **bolded** should be included in these three.
+## **Class Schedule**
+Choose *at least three* to read articles unless otherwise noted. Readings that are **bolded** should be included in these three.
 
-### Week 1: Jan 15/Jan 17
+### 
 
-**<span style="color:grey">INTRODUCTION & CLASS GOALS</span>**
+**<span style="color:grey">1. INTRODUCTION & CLASS GOALS (Jan 15/Jan 17)</span>**
 
 No Monday class - Martin Luther Jr. Day
 
