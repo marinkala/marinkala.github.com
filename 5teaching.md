@@ -96,11 +96,10 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 One-page essay on the readings is <span style="color:orange">due in class</span>
 
-**<span style="color:grey">9. Spring Break (Mar 12/Mar 14)   </span>**
+**<span style="color:grey">9. SPRING BREAK (Mar 12/Mar 14)   </span>**
+ 
 
-### Week 10: Mar 19/Mar 21
-
-**<span style="color:grey">INTERNET RESEARCH ETHICS    </span>**
+**<span style="color:grey">10. INTERNET RESEARCH ETHICS (Mar 19/Mar 21)   </span>**
 
 * [“Facebook Manipulated User News Feeds To Create Emotional Responses”](http://www.forbes.com/sites/gregorymcneal/2014/06/28/facebook-manipulated-user-news-feeds-to-create-emotional-contagion/#2bf11db15fd8), *Forbes*, 2014.
 * [“We experiment on human beings!”](http://blog.okcupid.com/index.php/we-experiment-on-human-beings/), *OKTrends*, 2014.
@@ -108,11 +107,9 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 * [“Hey New Yorkers, your drunken tweets were dissected by machines for science”](http://mashable.com/2016/03/17/drunken-tweets-algorithm/#L43hcACvKPqr), *Mashable*, 2016.
 * [“How One Stupid Tweet Blew Up Justine Sacco’s Life”](http://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html), *New York Times*, 2015.
 
-One-page essay on the readings is <span style="color:orange">due in class</span>
+One-page essay on the readings is <span style="color:orange">due in class</span> 
 
-### Week 11: Mar 26/Mar 28
-
-**<span style="color:grey">AI & ROBOTS    </span>**
+**<span style="color:grey">11. AI & ROBOTS (Mar 26/Mar 28)   </span>**
 
 * [“Imagine discovering that your teaching assistant is really a robot”](http://www.wsj.com/articles/if-your-teacher-sounds-like-a-robot-you-might-be-on-to-something-1462546621), *Wall Street Journal*, 2016
 * [“From Siri to sexbots: Female AI reinforces a toxic desire for passive, agreeable and easily dominated women”](http://www.salon.com/2016/04/08/from_siri_to_sexbots_female_ai_reinforces_a_toxic_desire_for_passive_agreeable_and_easily_dominated_women/), *Salon*, 2016
@@ -121,21 +118,18 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 * [“Can the presence of a robot affect whether humans behave ethically?”](http://www.techrepublic.com/article/can-the-presence-of-a-robot-affect-whether-humans-behave-ethically-cornell-research-investigates/), *Tech Republic*, 2016
 * [“Why This Guy’s Scarlett Johansson Robot Raise a Lot of Concerns”](http://www.themarysue.com/scarjo-robot/), *The Mary Sue*, 2016
 
-One-page essay on the readings is <span style="color:orange">due in class</span>
+One-page essay on the readings is <span style="color:orange">due in class</span> 
 
-### Week 12: Apr 2/Apr 4
-
-**<span style="color:grey">CASE STUDY: CHATBOTS     </span>**
+**<span style="color:grey">12. CASE STUDY: CHATBOTS (Apr 2/Apr 4)    </span>**
 
 * **Watch: Black Mirror, Season 2,  episode 1, “Be Right Back”, 2013**
 * [“Trolls turned Tay, Microsoft’s fun millennial AI bot, into a genocidal maniac”](https://www.washingtonpost.com/news/the-intersect/wp/2016/03/24/the-internet-turned-tay-microsofts-fun-millennial-ai-bot-into-a-genocidal-maniac/), *The Washington Post*, 2016
 * [“Here’s How We Prevent the Next Racist Chatbot”](http://www.popsci.com/heres-how-we-prevent-next-racist-chatbot), *Popular Science*, 2016
 * [“The Humans Hiding Behind the Chatbots”](http://www.bloomberg.com/news/articles/2016-04-18/the-humans-hiding-behind-the-chatbots), *Bloomberg*, 2016
 
-One-page essay on the readings is <span style="color:orange">due in class</span>
-### Week 13: Apr 9/Apr 11
+One-page essay on the readings is <span style="color:orange">due in class</span>
 
-**<span style="color:grey">REPRESENTATION & BIAS     </span>**
+**<span style="color:grey">13. REPRESENTATION & BIAS (Apr 9/Apr 11)    </span>**
 
 * [“I’m Deleting Snapchat and You Should Too”](https://medium.com/@katie/im-deleting-snapchat-and-you-should-too-98569b2609e4#.6xw6eriea) by Katie Zhu on *Medium*, 2016.
 * [“Programming Violence: Under a Progressive Surface, Facebook’s Software Misgenders Users”](http://culturedigitally.org/2016/01/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/) *Culture Digitally*, 2016.
@@ -143,9 +137,7 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 One-page essay on the readings is <span style="color:orange">due in class</span>
 
-### Week 14: Apr 16/Apr 18
-
-**<span style="color:grey">ALGORITHMS & BIAS     </span>**
+**<span style="color:grey">14. ALGORITHMS & BIAS  (Apr 16/Apr 18)   </span>**
 
 * [“Two years later, Google solves 'racist algorithm' problem by purging 'gorilla' label from image classifier”](https://boingboing.net/2018/01/11/gorilla-chimp-monkey-unpersone.html), *Boingboing*, 2018
 * [“Your Favorite Website Might Be Discriminating Against You”](https://www.aclu.org/blog/speak-freely/your-favorite-website-might-be-discriminating-against-you), ACLU, 2016.
@@ -155,9 +147,7 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 One-page essay on the readings is <span style="color:orange">due in class</span>
 
-### Week 15: Apr 23/Apr 25
-
-**<span style="color:grey">CASE STUDY: PREDICTIVE POLICING     </span>**
+**<span style="color:grey">15. CASE STUDY: PREDICTIVE POLICING (Apr 23/Apr 25)    </span>**
 
 * **Watch: Minority Report (2001 film)**(Alternate: “Minority Report” by Philip K. Dick (1965))
 * [“Did A Bail Reform Algorithm Contribute To This San Francisco Man's Murder?”](https://www.npr.org/2017/08/18/543976003/did-a-bail-reform-algorithm-contribute-to-this-san-francisco-man-s-murder), (audio), *NPR*, 2017
@@ -168,9 +158,7 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 One-page essay on the readings is <span style="color:orange">due in class</span>
 
-### Week 16: Apr 30/May 2
-
-**<span style="color:grey">RESPONSIBILITY  </span>**
+**<span style="color:grey">16. RESPONSIBILITY (Apr 30/May 2)  </span>**
 
 * [**ACM Code of Ethics**](https://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct)
 * [“The Perils of Using Technology to Solve Other People’s Problems”](http://www.theatlantic.com/technology/archive/2016/06/tech-and-other-peoples-problems/488297/) by Ethan Zuckerman, *The Atlantic*, 2013
@@ -183,8 +171,9 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 One-page essay on the readings is <span style="color:orange">due in class</span>
 
-### Week 17: May 7/May 9
-Finals week - <span style="color:red">Final project due</span>
+**<span style="color:grey">16. FINALS WEEK (May 7/May 9)  </span>** 
+
+<span style="color:red">Final projects due</span>
 
 ##Syllabus Details
 Society is continuously challenged by new advances, inventions, and the social and ethical repercussions of technology.
