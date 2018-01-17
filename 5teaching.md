@@ -7,12 +7,13 @@ permalink: /teaching/
 
 ### CS 293
 # Social and Ethical Issues in Computing
-##<span style="color:orange">Spring 2018</span>
+
+## <span style="color:orange">Spring 2018</span>
 
 
-**<span style="color:grey">Section 003:</span> Mondays** 1:00–1:50 — Dane Smith Hall 232   
-
-**<span style="color:grey">Section 004:</span> Wednesdays** 1:00–1:50 — Dane Smith Hall 232   
+> **<span style="color:grey">Section 003:</span> Mondays** 1:00–1:50 — Dane Smith Hall 232   
+> 
+> **<span style="color:grey">Section 004:</span> Wednesdays** 1:00–1:50 — Dane Smith Hall 232   
 
 ## Class Schedule
 Choose *at least three* to read unless otherwise noted. Readings that are **bolded** should be included in these three.
