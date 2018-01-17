@@ -18,15 +18,12 @@ permalink: /teaching/
 ## **Class Schedule**
 Choose *at least three* to read articles unless otherwise noted. Readings that are **bolded** should be included in these three.
 
-### 
-
 **<span style="color:grey">1. INTRODUCTION & CLASS GOALS (Jan 15/Jan 17)</span>**
 
 No Monday class - Martin Luther Jr. Day
 
-### Week 2: Jan 22/Jan 24
 
-**<span style="color:grey">TECHNOLOGY & POWER</span>**
+**<span style="color:grey">2. TECHNOLOGY & POWER (Jan 22/Jan 24)</span>**
 
 * **Watch: Black Mirror Season 3, episode 1 “Nosedive”, 2016**
 * [“Facebook employees asked Mark Zuckerberg if they should try to stop a Trump presidency”](http://gizmodo.com/facebook-employees-asked-mark-zuckerberg-if-they-should-1771012990?utm_campaign=socialflow_gizmodo_twitter&utm_source=gizmodo_twitter&utm_medium=socialflow), *Gizmodo*, 2016
@@ -35,11 +32,9 @@ No Monday class - Martin Luther Jr. Day
 * [“Has a rampaging AI really killed thousands in Pakistan?”](https://www.theguardian.com/science/the-lay-scientist/2016/feb/18/has-a-rampaging-ai-algorithm-really-killed-thousands-in-pakistan) *The Guardian*, 2016
 * [“Online Manipulation: All The Ways You’re Currently Being Deceived”](http://www.business2community.com/online-marketing/online-manipulation-all-the-ways-youre-currently-being-deceived-01382966#uMOyRcfBuHuw6AQO.97), *Business2Business*, 2015
 
-One-page essay on the readings is <span style="color:orange">due in class</span>
+One-page essay on the readings is <span style="color:orange">due in class</span> 
 
-### Week 3: Jan 29/Jan 31
-
-**<span style="color:grey">FREE SPEECH & CENSORSHIP  </span>**
+**<span style="color:grey">3. FREE SPEECH & CENSORSHIP (Jan 29/Jan 31)  </span>**
 
 * **[“It’s the (democracy-poisoning) golden age of free speech”](https://www.wired.com/story/free-speech-issue-tech-turmoil-new-censorship/), *Wired*, 2018**
 * **[“The secret rules of the Internet”](http://www.theverge.com/2016/4/13/11387934/internet-moderator-history-youtube-facebook-reddit-censorship-free-speech), The Verge, 2016**
@@ -49,9 +44,7 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 One-page essay on the readings is <span style="color:orange">due in class</span>
 
-### Week 4: Feb 5/Feb 7
-
-**<span style="color:grey">CASE STUDY: TWITTER </span>**
+**<span style="color:grey">4. CASE STUDY: TWITTER (Feb 5/Feb 7) </span>**
 
 **Read all of these:**
 * [“I’m With the Banned”](https://medium.com/welcome-to-the-scream-room/im-with-the-banned-8d1b6e0b2932#.u3qw4f5ob) by Laurie Penny, on *Medium*, 2016
@@ -60,11 +53,9 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 * [“Twitter’s Fucked”](http://degoes.net/articles/fuck-twitter) by John A De Goes, 2016
 * [Twitter Abuse Recommendations](http://womenactionmedia.org/twitter-report/twitter-abuse-recommendations/), *Women Action & Media*
 
-One-page essay on the readings is <span style="color:orange">due in class</span>
+One-page essay on the readings is <span style="color:orange">due in class</span> 
 
-### Week 5: Feb 12/Feb 14
-
-**<span style="color:grey">INTELLECTUAL FREEDOM & OPEN SOURCE  </span>**
+**<span style="color:grey">5. INTELLECTUAL FREEDOM & OPEN SOURCE (Feb 12/Feb 14)  </span>**
 
 * Stallman, R. (1985) [The Gnu Manifesto](https://www.gnu.org/gnu/manifesto.html).  
 * Lawrence Lessig: [Laws That Choke Creativity](https://www.youtube.com/watch?v=7Q25-S7jzgs) (video)
@@ -75,9 +66,7 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 One-page essay on the readings is <span style="color:orange">due in class</span>
 
-### Week 6: Feb 19/Feb 21
-
-**<span style="color:grey">PRIVACY & PERSONAL DATA   </span>**
+**<span style="color:grey">6. PRIVACY & PERSONAL DATA (Feb 19/Feb 21)  </span>**
 
 * **[“‘Anonymized’ data really isn’t—and here’s why not”](http://arstechnica.com/tech-policy/2009/09/your-secrets-live-online-in-databases-of-ruin/), *Ars Technica*, 2009**
 * [“‘Digital Kidnapping’ Trend is All Over Social Media”](http://www.bustle.com/articles/102002-digital-kidnapping-trend-is-all-over-social-media-and-it-will-make-your-skin-crawl), *Bustle*, 2015.
@@ -89,9 +78,7 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 One-page essay on the readings is <span style="color:orange">due in class</span>
 
-### Week 7: Feb 26/Feb 28
-
-**<span style="color:grey">SURVEILLANCE & GOVERNMENT   </span>**
+**<span style="color:grey">7. SURVEILLANCE & GOVERNMENT (Feb 26/Feb 28) </span>**
 
 * “[How Antivirus Software Can Be Turned Into a Tool for Spying](https://www.nytimes.com/2018/01/01/technology/kaspersky-lab-antivirus.html)”, *New York Times*, 2018
 * [“Ron Johnson wants Facebook to give account info for Orlando killer Mateen”](http://archive.jsonline.com/news/statepolitics/johnson-wants-facebook-to-give-account-info-for-orlando-killer-mateen-b99745601z1-383201181.html), *Milwaukee-Wisconsin Journal Sentinel*, 2016
@@ -100,9 +87,7 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 One-page essay on the readings is <span style="color:orange">due in class</span>
 
-### Week 8: Mar 5/Mar 7
-
-**<span style="color:grey">INFORMATION INEQUITY   </span>**
+**<span style="color:grey">8. INFORMATION INEQUITY (Mar 5/Mar 7)  </span>**
 
 * [Digital Divide](https://en.wikipedia.org/wiki/Digital_divide) (Wikipedia)
 * [“Will US net neutrality's end harm the poor?”](http://www.aljazeera.com/news/2017/12/net-neutrality-harm-poor-171213161323279.html), *Al Jazeera*, 2017
@@ -111,8 +96,7 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 One-page essay on the readings is <span style="color:orange">due in class</span>
 
-### Week 9: Mar 12/Mar 14
-Spring break - no class
+**<span style="color:grey">9. Spring Break (Mar 12/Mar 14)   </span>**
 
 ### Week 10: Mar 19/Mar 21
 
