@@ -13,7 +13,10 @@ permalink: /teaching/
 
 > **<span style="color:grey">Section 003:</span> Mondays** 1:00–1:50 — Dane Smith Hall 232   
 > 
-> **<span style="color:grey">Section 004:</span> Wednesdays** 1:00–1:50 — Dane Smith Hall 232   
+> **<span style="color:grey">Section 004:</span> Wednesdays** 1:00–1:50 — Dane Smith Hall 232
+
+**Dr. Marina Kogan**  
+<mailto:mkogan@unm.edu>  
 
 ## **Class Schedule**
 Choose *at least three* to read articles unless otherwise noted. Readings that are **bolded** should be included in these three.
