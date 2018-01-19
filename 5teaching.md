@@ -186,7 +186,11 @@ Society is continuously challenged by new advances, inventions, and the social a
 This class explores these issues, from the perspective of technology policy, design, and potential impolications for the lived experiences of the technology users. Throughout the course we will cover privacy, intellectual property, issues of digital divide, algorithmic bias, professional responsibility and codes, online communities, chatbots, and the social and legal impacts of these and other technologies.
 
 ### Assignments
-Every week you will have to turn in a one-page written essay. These should be turned in, printed out, each week in class.
+Every week you will have to turn in a one-page written essay. These should be turned in, printed out, each week in class. Based on the weeks reading, please discuss the following:
+
+* What are the multiple competing values or points of view present in the readings (i.e. freedom of speach, censorhsip, and privacy in the right to be forgotten [PBS Idea Chanel video](https://www.youtube.com/watch?v=CD37vwUD8Us))?
+* What are the current social implications of this technology or situation – how it's affecting people now?
+* What are the possible future implications - where you imaging this going and how it would affect our society then? 
 
 ### Expectations
 You are expect to attend class, to have completed the assigned readings, and to participate in class discussion. If you must miss a class, please send an email in advance. All assignments should be done individually.
