@@ -182,12 +182,12 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 Society is continuously challenged by new advances, inventions, and the social and ethical repercussions of technology.
 
-This class explores these issues, from the perspective of technology policy, design, and potential impolications for the lived experiences of the technology users. Throughout the course we will cover privacy, intellectual property, issues of digital divide, algorithmic bias, professional responsibility and codes, online communities, chatbots, and the social and legal impacts of these and other technologies.
+This class explores these issues, from the perspective of technology policy, design, and potential impilications for the lived experiences of the technology users. Throughout the course we will cover privacy, intellectual property, issues of digital divide, algorithmic bias, professional responsibility and codes, online communities, chatbots, and the social and legal impacts of these and other technologies.
 
 ### Assignments
 Every week you will have to turn in a one-page written essay. These should be turned in, printed out, each week in class. Based on the weeks reading, please discuss the following:
 
-* What are the multiple competing values or points of view present in the readings (i.e. freedom of speach, censorhsip, and privacy in the right to be forgotten [PBS Idea Chanel video](https://www.youtube.com/watch?v=CD37vwUD8Us))?
+* What are the multiple competing values or points of view present in the readings (i.e. freedom of speech, censorship, and privacy in the right to be forgotten [PBS Idea Chanel video](https://www.youtube.com/watch?v=CD37vwUD8Us))?
 * What are the current social implications of this technology or situation – how it's affecting people now?
 * What are the possible future implications - where you imaging this going and how it would affect our society then? 
 
@@ -203,6 +203,6 @@ You are expect to attend class, to have completed the assigned readings, and to 
 Mondays 2:00PM-3:00PM  
 Farris Engineering Center, Room 2130
 
-The course materials are largely based on Casey Fiesler's [Ethical and Policy Dimensioins of Information, Technology, and New Media course](https://informationethicspolicy.wordpress.com/) and the course description builds on Patrick Kelly's [earlier iteration of this course](http://cs.unm.edu/~pgk/293f15/).
+The course materials are largely based on Casey Fiesler's [Ethical and Policy Dimensions of Information, Technology, and New Media course](https://informationethicspolicy.wordpress.com/) and the course description builds on Patrick Kelly's [earlier iteration of this course](http://cs.unm.edu/~pgk/293f15/).
 
 
