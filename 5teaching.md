@@ -200,6 +200,10 @@ You are expect to attend class, to have completed the assigned readings, and to 
 * Short weekly assignments – 40%
 * Final project – 20%
 
+### Office Hours
+Mondays 2:00PM-3:00PM  
+Farris Engineering Center, Room 2130
+
 The course materials are largely based on Casey Fiesler's [Ethical and Policy Dimensioins of Information, Technology, and New Media course](https://informationethicspolicy.wordpress.com/) and the course description builds on Patrick Kelly's [earlier iteration of this course](http://cs.unm.edu/~pgk/293f15/).
 
 
