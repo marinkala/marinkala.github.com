@@ -35,7 +35,7 @@ No Monday class - Martin Luther Jr. Day
 * [“Has a rampaging AI really killed thousands in Pakistan?”](https://www.theguardian.com/science/the-lay-scientist/2016/feb/18/has-a-rampaging-ai-algorithm-really-killed-thousands-in-pakistan) *The Guardian*, 2016
 * [“Online Manipulation: All The Ways You’re Currently Being Deceived”](http://www.business2community.com/online-marketing/online-manipulation-all-the-ways-youre-currently-being-deceived-01382966#uMOyRcfBuHuw6AQO.97), *Business2Business*, 2015
 
-One-page essay on the readings is <span style="color:orange">due in class</span> 
+One-page <span style="color:orange">single-psaced</span> essay on the readings is <span style="color:orange">due in class</span> 
 
 **<span style="color:grey">3. FREE SPEECH & CENSORSHIP (Jan 29/Jan 31)  </span>**
 
@@ -45,7 +45,7 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 * [“Former Facebook workers: We routinely suppressed conservative news”](http://gizmodo.com/former-facebook-workers-we-routinely-suppressed-conser-1775461006), *Gizmodo*, 2016
 * [“Twitter just implemented its own "right to be forgotten" for politicians' tweets”](http://fortune.com/2015/08/24/twitter-right-to-be-forgotten/), *Fortune*, 2015
 
-One-page essay on the readings is <span style="color:orange">due in class</span>
+One-page <span style="color:orange">single-psaced</span> essay on the readings is <span style="color:orange">due in class</span>
 
 **<span style="color:grey">4. CASE STUDY: TWITTER (Feb 5/Feb 7) </span>**
 
