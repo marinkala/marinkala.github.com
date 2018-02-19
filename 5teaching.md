@@ -132,15 +132,7 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 One-page essay on the readings is <span style="color:orange">due in class</span>
 
-**<span style="color:grey">13. REPRESENTATION & BIAS (Apr 9/Apr 11)    </span>**
-
-* [“I’m Deleting Snapchat and You Should Too”](https://medium.com/@katie/im-deleting-snapchat-and-you-should-too-98569b2609e4#.6xw6eriea) by Katie Zhu on *Medium*, 2016.
-* [“Programming Violence: Under a Progressive Surface, Facebook’s Software Misgenders Users”](http://culturedigitally.org/2016/01/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/) *Culture Digitally*, 2016.
-* [“A popular video game now randomizes your race and gender — and many white men are furious”](http://www.vox.com/2016/4/17/11442730/rust-experimental-race-gender-random), *Vox*, 2016
-
-One-page essay on the readings is <span style="color:orange">due in class</span>
-
-**<span style="color:grey">14. ALGORITHMS & BIAS  (Apr 16/Apr 18)   </span>**
+**<span style="color:grey">13. ALGORITHMS & BIAS (Apr 9/Apr 11)    </span>**
 
 * [“Two years later, Google solves 'racist algorithm' problem by purging 'gorilla' label from image classifier”](https://boingboing.net/2018/01/11/gorilla-chimp-monkey-unpersone.html), *Boingboing*, 2018
 * [“Your Favorite Website Might Be Discriminating Against You”](https://www.aclu.org/blog/speak-freely/your-favorite-website-might-be-discriminating-against-you), ACLU, 2016.
@@ -150,7 +142,7 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 One-page essay on the readings is <span style="color:orange">due in class</span>
 
-**<span style="color:grey">15. CASE STUDY: PREDICTIVE POLICING (Apr 23/Apr 25)    </span>**
+**<span style="color:grey">14. CASE STUDY: PREDICTIVE POLICING  (Apr 16/Apr 18)   </span>**
 
 * **Watch: Minority Report (2001 film)**(Alternate: “Minority Report” by Philip K. Dick (1965))
 * [“Did A Bail Reform Algorithm Contribute To This San Francisco Man's Murder?”](https://www.npr.org/2017/08/18/543976003/did-a-bail-reform-algorithm-contribute-to-this-san-francisco-man-s-murder), (audio), *NPR*, 2017
@@ -160,6 +152,11 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 * [“Can we predict who will turn to crime? 'Minority Report' computers may soon mark out children as 'likely criminals'”](http://www.dailymail.co.uk/sciencetech/article-3721365/Can-predict-turn-crime-Minority-Report-computers-soon-mark-children-likely-criminals.html), *Daily Mail*, 2016
 
 One-page essay on the readings is <span style="color:orange">due in class</span>
+
+
+**<span style="color:grey">15. GUEST LECTURE (Apr 23/Apr 25)    </span>**
+
+
 
 **<span style="color:grey">16. RESPONSIBILITY (Apr 30/May 2)  </span>**
 
