@@ -139,6 +139,7 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 * [“Three black teenagers: Anger as Google image search shows police mugshots”](https://www.theguardian.com/technology/2016/jun/09/three-black-teenagers-anger-as-google-image-search-shows-police-mugshots), *The Guardian*, 2016.
 * [“A Primer on Non-Binary Gender and Big Data”](https://civic.mit.edu/blog/kanarinka/a-primer-on-non-binary-gender-and-big-data), MIT Center for Civic Media, 2016.
 * [“Why Men are Re-Tweeted More Than Women”](http://www.theatlantic.com/magazine/archive/2015/06/why-men-are-retweeted-more-than-women/392099/), *The Atlantic*, 2015.
+* ["The age of the algorithm"](https://99percentinvisible.org/episode/the-age-of-the-algorithm/), *99% Invisible* (audio)
 
 One-page essay on the readings is <span style="color:orange">due in class</span>
 
