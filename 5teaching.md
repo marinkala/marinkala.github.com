@@ -155,9 +155,13 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 One-page essay on the readings is <span style="color:orange">due in class</span>
 
 
-**<span style="color:grey">15. NO CLASS (Apr 23/Apr 25)    </span>**
+**<span style="color:grey">15. NO CLASS (Apr 23/Apr 25)    </span>** 
+
+Work on your final project
  
-* Work on your final projects
+* [“Design Fiction: A Short Essay on Design, Science, Fact and Fiction”](http://blog.nearfuturelaboratory.com/2009/03/17/design-fiction-a-short-essay-on-design-science-fact-and-fiction/), Near Future Laboratory
+* [“Maneki Neko”](http://www.lightspeedmagazine.com/fiction/maneki-neko/) by Bruce Sterling, *Lightspeed*, 2011
+* [What Would You Do? Design Fiction and Ethics](/assets/p244-baumer.pdf) by Baumer et al., *ACM GROUP*, 2018
 
 
 
