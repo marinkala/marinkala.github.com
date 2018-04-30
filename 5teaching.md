@@ -182,12 +182,12 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 <span style="color:red">Final projects due</span>
 
-Write a high-level script for a **Black Mirror episode** (or any similar sci-fi show that deals with implications of technology):
+Write a high-level **script for a Black Mirror episode** (or any similar sci-fi show that deals with implications of technology) or a **short story**:
  
--  The script should engage with any of the issues we discussed in class
+-  The script/story should engage with any of the issues we discussed in class (or other issues related to technology)
 -  Show complexity of the issue (i.e. trade-offs between privacy & security)
 -  It is helpful to start your writing process with the issue of interest, which will lead you to the specific technology. Not the other way around.
--  	At least 3 pages (single-spaced).-	At most 5 pages (excluding the explanatory paragraph below).-	After the script, in a separate paragraph, include a brief explanation of which competing values you were trying to highlight (i.e. privacy vs. security).
+-  	At least 3 pages (single-spaced).-	At most 5 pages (excluding the explanatory paragraph below).-	After the script/story, in a separate paragraph, include a brief explanation of which competing values you were trying to highlight (i.e. privacy vs. security).
 
 ## Syllabus Details
 
