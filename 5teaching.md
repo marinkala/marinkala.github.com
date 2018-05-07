@@ -180,7 +180,10 @@ One-page essay on the readings is <span style="color:orange">due in class</span>
 
 **<span style="color:grey">16. FINALS WEEK (May 7/May 9)  </span>** 
 
-<span style="color:red">Final projects due</span>
+<span style="color:red">**Final projects due**</span>
+
+* **Section 003: drop off at FEC 2130 5/7/2018  before 5PM** 
+* **Section 004: drop off at FEC 2130 5/9/2018  before 5PM**
 
 Write a high-level **script for a Black Mirror episode** (or any similar sci-fi show that deals with implications of technology) or a **short story**:
  
