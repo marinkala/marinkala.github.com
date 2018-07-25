@@ -7,7 +7,7 @@ excerpt: "This is my landing page"
 
 I'm an Assistant Professor of Computer Science at the [University of New Mexico](http://unm.edu).
 
-My research interests are in Crisis Informatics, Social Computing, and Network Science. Specifically, I study how people come together, coordinate, self-organize, and form communities online, especially in the high-tempo, high-risk environment of crisis. More broadly, I am interested in how social media platforms — as complex sociotechnical systems — affect and are affected by social behavior.
+My research interests are in Crisis Informatics, Social Computing, and Network Science. Specifically, I study how people coordinate, self-organize, collectively problem-solve, and form communities online, especially in the high-tempo, high-risk environment of crisis. More broadly, I am interested in how social media platforms — as complex sociotechnical systems — affect and are affected by social behavior.
 
 I completed my PhD in Computer Science at the [University of Colorado Boulder](http://colorado.edu) in [Human Centered Computing](http://hcc.colorado.edu) under the advisement of Professor [Leysia Palen](http://cmci.colorado.edu/~palen/).
 
