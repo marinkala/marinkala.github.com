@@ -3,7 +3,7 @@ layout: default
 excerpt: "This is my landing page"
 ---
 
-![headshot](/assets/prof_head.jpg=100x)
+<img src='/assets/prof_head.jpg', heigh='200'>
 
 I'm an Assistant Professor of Computer Science at the [University of New Mexico](http://unm.edu).
 
