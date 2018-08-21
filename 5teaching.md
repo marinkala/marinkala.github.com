@@ -4,7 +4,7 @@ title: Teaching
 excerpt: "This is my teaching"
 permalink: /teaching/
 ---
-* [Spring 2017: CS 293](5teaching.md)
+* [Spring 2017: CS 293](CS293.md)
 
 ### CS 293
 # **Social and Ethical Issues in Computing**
