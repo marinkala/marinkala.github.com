@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+nav_order: 2
 excerpt: "This is my about statement"
 permalink: /about/
 ---

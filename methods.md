@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Methods
+nav_order: 3
 excerpt: "These are my methods"
 permalink: /methods/
 ---
