@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teaching
+nav_order: 5
 excerpt: "This is my teaching"
 permalink: /teaching/
 ---
