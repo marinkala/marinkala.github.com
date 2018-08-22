@@ -2,8 +2,7 @@
 layout: default
 excerpt: "This is my landing page"
 ---
-
-<img src="assets/prof_head.jpg" height="200" />
+<img src="assets/prof_head.jpg" alt="headshot" style="width: 200px; margin-left: 20px;" align="right"/>
 
 I'm an Assistant Professor of [Computer Science](http://cs.unm.edu/) at the [University of New Mexico](http://unm.edu).
 
