@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /Reflections/
+permalink: /reflections/
 ---
 
 ### CS 491/591
