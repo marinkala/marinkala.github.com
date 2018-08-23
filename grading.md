@@ -5,7 +5,7 @@ permalink: /grading/
 
 # **Grading Scheme**
 
-**Undergradaute Grade Points**
+**Undergraduate Grade Points**
 
 * Weekly Reflections - 30%
 * Homeworks - 20%
@@ -13,7 +13,7 @@ permalink: /grading/
 * Final Project - 35%
 
 
-**Gradaute Grade Points**
+**Graduate Grade Points**
 
 * Weekly Reflections - 25%
 * Homeworks - 15%
