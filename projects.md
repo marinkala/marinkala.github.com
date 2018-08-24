@@ -29,6 +29,7 @@ In one strand of research, I focused on Twitter information diffusion in the 201
 The resulting [CSCW paper](https://dl.acm.org/citation.cfm?id=2675218) shows that the people in the path of the disaster favor in their retweeting locally-created tweets and those with locally-actionable information. They also form denser networks of information propagation during disaster than before or after.
 
 In another strand of research, I investigated the conversational activity that takes place through the @reply convention in disaster. I developed a method for constructing @reply conversations in Twitter at scale and applied it to the the high-tempo, high-stakes environment of 2012's Hurricane Sandy. I investigated the temporality of conversations; the relationality of who speaks to whom; the number and kind of conversationalists; and how content affects temporal features. The resulting [CHI paper](https://dl.acm.org/citation.cfm?id=3173658) shows that, during the height of the emergency, people expand conversations both in number and kind of conversational partners. This expansion contributes to longer, slower-paced conversations in the high-emergency period, suggesting reliance on online relationships during times of greatest uncertainty.
+               a               |              b              |              c                
 -------------------------------|-----------------------------|-------------------------------
 ![](/assets/intertweetTime.jpg)|![](/assets/outReplyTime.jpg)|![](/assets/InterreplyTime.jpg)
 
