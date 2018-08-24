@@ -32,8 +32,8 @@ In another strand of research, I investigated the conversational activity that t
 
 <p float="left">
   <img src="/assets/intertweetTime.jpg" width="300" />
-  <img src="/assets/outReplyTime.jpg" width="295" /> 
-  <img src="/assets/InterreplyTime.jpg" width="295" />
+  <img src="/assets/outReplyTime.jpg" width="290" /> 
+  <img src="/assets/InterreplyTime.jpg" width="290" />
 </p>
 
 ## Work Practices and Cooperation in OpenStreetMap
