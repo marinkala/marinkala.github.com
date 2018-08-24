@@ -31,9 +31,9 @@ The resulting [CSCW paper](https://dl.acm.org/citation.cfm?id=2675218) shows tha
 In another strand of research, I investigated the conversational activity that takes place through the @reply convention in disaster. I developed a method for constructing @reply conversations in Twitter at scale and applied it to the the high-tempo, high-stakes environment of 2012's Hurricane Sandy. I investigated the temporality of conversations; the relationality of who speaks to whom; the number and kind of conversationalists; and how content affects temporal features. The resulting [CHI paper](https://dl.acm.org/citation.cfm?id=3173658) shows that, during the height of the emergency, people expand conversations both in number and kind of conversational partners. This expansion contributes to longer, slower-paced conversations in the high-emergency period, suggesting reliance on online relationships during times of greatest uncertainty.
 
 <p float="left">
-  <img src="/assets/intertweetTime.jpg" width="250" />
-  <img src="/assets/outReplyTime.jpg" width="250" /> 
-  <img src="/assets/InterreplyTime.jpg" width="250" />
+  <img src="/assets/intertweetTime.jpg" width="350" />
+  <img src="/assets/outReplyTime.jpg" width="350" /> 
+  <img src="/assets/InterreplyTime.jpg" width="350" />
 </p>
 
 ## Work Practices and Cooperation in OpenStreetMap
