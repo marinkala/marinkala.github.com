@@ -39,6 +39,14 @@ Final grades are determined using the following weights:
 * Grad-student led discussion - 15%
 * Final Project - 30%
 
+## **Reflections**
+Your weekly reflection should include the following aspects:
+
+* Your impressions of the reading: what seemed interesting, surprising, most important
+* What aspects you are critical of (disagree, see problems with methods) 
+* Two questions about the readings for class discussion 
+* What kind of study would you design based on these ideas
+
 ## **Homeworks**
 ### _Homework #1_
 ### Observation of social behavior in public spaces
