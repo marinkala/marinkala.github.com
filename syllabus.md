@@ -1,7 +1,7 @@
 ---
 layout: default
 excerpt: "This is syllabys for social computing course"
-permalink: /CS591syllabus/
+permalink: /CS591syllabi/
 ---
 
 # **Social Computing Syllabus**
