@@ -60,7 +60,14 @@ Your weekly reflection should include the following aspects:
 ### _Homework #2_
 ### Find a publically available data set and form a hypothesis
 
-More details to come
+* Search online for publically available data sets
+* A few potential places to start: [SNAP data sets](http://snap.stanford.edu/data/index.html), [Icon data sets](https://icon.colorado.edu/#!/), [data.world](https://data.world/datasets/social-media)
+
+In your one-page write up:
+
+* Describe the data set — what types of data does it include?
+* Describe a hypothesis you could test or a question you would like to answer with this data set
+* Describe the advantages and the limitations of this data set for answering your question (what variables would you use, what variables are missing, sampling issues)
 
 ### _Homework #3_
 ### Basic statistical analysis of chosen dataset
