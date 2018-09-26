@@ -82,9 +82,10 @@ In you 1-2 page write-up:
 
 * Very briefly describe your chosen data set (old or new)
 * Explain why you have chosen these particular variables and how they relate to your (old or new) hypothesis
-* Describe your approach to the missing values
-* Include the statistical descriptors of the data and the histogram for each variables
+* Describe your approach to addressing the missing values
+* Include the statistical descriptors of the data and the histogram for each variable
 * Discuss the correlations between a subset of the variables
+* Include any other plots or analyses (optional)
 
 
 ### _Homework #4_
