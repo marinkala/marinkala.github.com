@@ -72,7 +72,20 @@ In your one-page write up:
 ### _Homework #3_
 ### Basic statistical analysis of chosen dataset
 
-More details to come
+* Select 4-5 variables that relate to your hypothesis or research question (you are free to explore a different research question or a different data set than in the prior homework)
+* Check the selected variables for missing values and address them in some way ([see lecture in WEEK 4](CS591.md))
+* Visualize the distribution of the data (histogram)
+* Statistically describe the selected variables (mean, variable, standard deviation, or non-parametric equivalents like median, range, quartiles if the data is not Normally-distributed)
+* Check for correlations between some subset of the selected variables (select the subset based on your hypothesis)
+
+In you 1-2 page write-up:
+
+* Very briefly describe your chosen data set (old or new)
+* Explain why you have chosen these particular variables and how they relate to your (old or new) hypothesis
+* Describe your approach to the missing values
+* Include the statistical descriptors of the data and the histogram for each variables
+* Discuss the correlations between a subset of the variables
+
 
 ### _Homework #4_
 ### Final project proposal
