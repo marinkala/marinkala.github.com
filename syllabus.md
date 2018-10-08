@@ -95,7 +95,7 @@ In you 2-page proposal:
 
 * Describe the research question you are hoping to answer with this final project. What is novel and meaningful about this research question? Describe why you are interested in this research question 
 * Briefly describe your chosen data set and why it is suitable for answering your research question. Be specific about what types of data are contained in the data set and how they are relevant. Report if you decided to switch data sets in the process and why. 
-* Explain which particular variables you plant to focus on and how they relate to your hypothesis or research question. How do you plan to operationalize the concepts you are hoping to measure with those variable? (i.e. follower count as proxy for popularity).
+* Explain which particular variables you plan to focus on and how they relate to your hypothesis or research question. How do you plan to operationalize the concepts you are hoping to measure with those variable? (i.e. follower count as proxy for popularity).
 * Describe the methods you plan to use for this final project. Are you planning to do a quantitative or qualitative analysis? If you are using digital trace data (most of you are), what computational techniques are you planning to use to answer your research question?
 * Discuss the limitations of your approach. What are the sampling issues with how your data set has been collected? Are the variables available to operationalize your concepts of interest good proxies?  Reflect on the limitations of the methods you plan to use in answering your research question.
 
