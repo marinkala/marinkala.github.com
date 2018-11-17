@@ -31,9 +31,9 @@ The resulting [CSCW paper](https://dl.acm.org/citation.cfm?id=2675218) shows tha
 In another strand of research, I investigated the conversational activity that takes place through the @reply convention in disaster. I developed a method for constructing @reply conversations in Twitter at scale and applied it to the the high-tempo, high-stakes environment of 2012's Hurricane Sandy. I investigated the temporality of conversations; the relationality of who speaks to whom; the number and kind of conversationalists; and how content affects temporal features. The resulting [CHI paper](https://dl.acm.org/citation.cfm?id=3173658) shows that, during the height of the emergency, people expand conversations both in number and kind of conversational partners. This expansion contributes to longer, slower-paced conversations in the high-emergency period, suggesting reliance on online relationships during times of greatest uncertainty.
 
 <p float="center">
-  <img src="assets/intertweetTime.jpg" width="250" />
-  <img src="assets/outReplyTime.jpg" width="240" /> 
-  <img src="assets/InterreplyTime.jpg" width="240" />
+  <img src="/assets/intertweetTime.jpg" width="250" />
+  <img src="/assets/outReplyTime.jpg" width="240" /> 
+  <img src="/assets/InterreplyTime.jpg" width="240" />
 </p>
 
 ## Work Practices and Cooperation in OpenStreetMap
@@ -51,7 +51,7 @@ We have built a framework on Ruby and MongoDB with a static Jekyll and Javascrip
 We investigated the time evolution of lead changes within individual games of competitive team sports. Exploiting ideas from the theory of random walks, the number of lead changes within a single game follows a Gaussian distribution. We show that the probability that the last lead change and the time of the largest lead size are governed by the same arcsine law, a bimodal distribution that diverges at the start and at the end of the game. We also determine the probability that a given lead is “safe” as a function of its size L and game time t. Our predictions generally agree with comprehensive data on more than 1.25 million scoring events in roughly 40 000 games across four professional or semiprofessional team sports, and are more accurate than popular heuristics currently used in sports analytics. This work has been published in [Physical Review E](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.062815) and has been publicized in [Slate](http://www.slate.com/articles/sports/sports_nut/2015/06/golden_state_warriors_championship_a_new_formula_for_predicting_lead_changes.html) and [New Scientist](https://www.newscientist.com/article/dn27836-winning-formula-reveals-if-your-team-is-too-far-ahead-to-lose).
 
 <p align="center">
-	<img src="/assets/LastLeadChange.jpg" height="450">
+	<img src="/assets/LastLeadChange.jpg" height="400">
 </p>
 
 ## Measuring Segregation based on Neighborhood Social Interactions 
