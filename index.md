@@ -10,4 +10,4 @@ My research interests are in Crisis Informatics, Social Computing, and Network S
 
 I completed my PhD in Computer Science at the [University of Colorado Boulder](http://colorado.edu) in [Human Centered Computing](http://hcc.colorado.edu) under the advisement of Professor [Leysia Palen](http://cmci.colorado.edu/~palen/).
 
-Before developing my interdisciplinary focus, I studied Sociology at [University of Illinois at Urbana-Champaign](http://illinois.edu/) and worked as social science researcher at [Ethnography & Evaluation Research](http://www.colorado.edu/eer/).
+Before developing my interdisciplinary focus, I studied Sociology at [University of Illinois at Urbana-Champaign](http://illinois.edu/) and worked as STEM education researcher at [Ethnography & Evaluation Research](http://www.colorado.edu/eer/).
