@@ -10,7 +10,7 @@ permalink: /HCCSemSp2020/
 **Wednesdays** 1:00PM–2:00PM — MEB 3515
 
 | Date           | Presenter                | Topic                                      |
-| :------------- | ------------------------ |--------------------------------------------|
+| :------------- | ------------------------ |:--------------------------------------------:|
 | 01/15/2020     |                          | [Organizational meeting](https://docs.google.com/document/d/1ni0Gp9Vm9g8CJdVuQpKqqnAJ6C_ATPm8O8KWkcr2ZeE/edit)     |
 | 01/22/2020     | Tamara Denning           | McDonald et al. [Reliability and Inter-rater Reliability in Qualitative Research: Norms and Guidelines for CSCW and HCI Practice. ](http://andreaforte.net/McDonald_Reliability_CSCW19.pdf) CSCW 2019.     |
 | 01/29/202      | Marina Kogan             | Badawy, A., Lerman, K., & Ferrara, E. [Who Falls for Online Political Manipulation?.](https://arxiv.org/pdf/1808.03281) In Proc. of The 2019 World Wide Web Conference. ACM.      |
