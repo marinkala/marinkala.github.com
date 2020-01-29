@@ -14,7 +14,7 @@ permalink: /HCCSemSp2020/
 | 01/15/2020     |                          | [Organizational meeting](https://docs.google.com/document/d/1ni0Gp9Vm9g8CJdVuQpKqqnAJ6C_ATPm8O8KWkcr2ZeE/edit)     |
 | 01/22/2020     | Tamara Denning           | McDonald et al. [Reliability and Inter-rater Reliability in Qualitative Research: Norms and Guidelines for CSCW and HCI Practice. ](http://andreaforte.net/McDonald_Reliability_CSCW19.pdf) CSCW 2019.     |
 | 01/29/202      | Marina Kogan             | Badawy, A., Lerman, K., & Ferrara, E. [Who Falls for Online Political Manipulation?.](https://dl.acm.org/doi/pdf/10.1145/3308560.3316494?casa_token=ibFSN1xaTpsAAAAA:WvGh8MlrOvfGeBBUDzV8jHXWhneA-lI5KgYKEQKNH9Lb-7EVKSSPbN4sg3eUaDOaSbg1Wgqz5IPx) In Proc. of The 2019 World Wide Web Conference. ACM.      |
-| 02/05/2020     | John Lund                | TBD       |
+| 02/05/2020     | John Lund                | Lazar et al. [Why we use and abandon smart devices.](https://dl-acm-org.ezproxy.lib.utah.edu/doi/10.1145/2750858.2804288) UbiComp '15       |
 | 02/12/2020     | Yuanyuan Tong            | Liu, Jiaxin, Elissa R. Weitzman, and Rumi Chunara. [Assessing behavior stage progression from social media data.](https://doi.org/10.1145/2998181.2998336) CSCW 2017       |
 | 02/19/2020     | Jason Wiese              | Schroeder, et al. [Examining Opportunities for Goal-Directed Self-Tracking to Support Chronic Condition Management.](https://dl.acm.org/doi/abs/10.1145/3369809) IMWUT 2019      |
 
