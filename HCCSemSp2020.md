@@ -16,7 +16,8 @@ permalink: /HCCSemSp2020/
 | 01/29/202      | Marina Kogan             | Badawy, A., Lerman, K., & Ferrara, E. [Who Falls for Online Political Manipulation?.](https://dl.acm.org/doi/pdf/10.1145/3308560.3316494?casa_token=ibFSN1xaTpsAAAAA:WvGh8MlrOvfGeBBUDzV8jHXWhneA-lI5KgYKEQKNH9Lb-7EVKSSPbN4sg3eUaDOaSbg1Wgqz5IPx) In Proc. of The 2019 World Wide Web Conference. ACM.      |
 | 02/05/2020     | John Lund                | Lazar et al. [Why we use and abandon smart devices.](https://dl-acm-org.ezproxy.lib.utah.edu/doi/10.1145/2750858.2804288) UbiComp '15       |
 | 02/12/2020     | Yuanyuan Tong            | Liu, Jiaxin, Elissa R. Weitzman, and Rumi Chunara. [Assessing behavior stage progression from social media data.](https://doi.org/10.1145/2998181.2998336) CSCW 2017       |
-| 02/19/2020     | Jason Wiese              | Schroeder, et al. [Examining Opportunities for Goal-Directed Self-Tracking to Support Chronic Condition Management.](https://dl.acm.org/doi/abs/10.1145/3369809) IMWUT 2019      |
+| 02/19/2020     | Christopher de Freitas            | Abokhodair, N., Yoo, D., & McDonald, D. W. [Dissecting a social botnet: Growth, content and influence in Twitter.] (https://dl.acm.org/doi/10.1145/2675133.2675208) CSCW 2015       |
+| 02/26/2020     | Jason Wiese              | Schroeder, et al. [Examining Opportunities for Goal-Directed Self-Tracking to Support Chronic Condition Management.](https://dl.acm.org/doi/abs/10.1145/3369809) IMWUT 2019      |
 
 
 ### Mailing List
