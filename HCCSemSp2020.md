@@ -9,6 +9,10 @@ permalink: /HCCSemSp2020/
 
 **Wednesdays** 1:00PM–2:00PM — MEB 3515
 
+Zoom meeting link: 
+
+https://utah.zoom.us/j/322120569?pwd=dDBRZmNjK1VseDlYc1NHNmp4WlF1QT09
+
 | Date           | Presenter                | Topic                                      |
 | :------------- | :------------------------: |:--------------------------------------------:|
 | 01/15/2020     |                          | [Organizational meeting](https://docs.google.com/document/d/1ni0Gp9Vm9g8CJdVuQpKqqnAJ6C_ATPm8O8KWkcr2ZeE/edit)     |
