@@ -23,8 +23,8 @@ https://utah.zoom.us/j/322120569?pwd=dDBRZmNjK1VseDlYc1NHNmp4WlF1QT09
 | 02/19/2020     | Christopher de Freitas            | Abokhodair, N., Yoo, D., & McDonald, D. W. [Dissecting a social botnet: Growth, content and influence in Twitter.](https://dl.acm.org/doi/10.1145/2675133.2675208) CSCW 2015       |
 | 02/26/2020     | Tamara Denning              | Shinohara et al. [Design for Social Accessibility Method Cards: Engaging Users and Reflecting on Social Scenarios for Accessible Design.](https://faculty.washington.edu/wobbrock/pubs/taccess-20.pdf) TACCESS 2020.      |
 | 03/04/2020     | Jason Wiese              | Schroeder, et al. [Examining Opportunities for Goal-Directed Self-Tracking to Support Chronic Condition Management.](https://dl.acm.org/doi/abs/10.1145/3369809) IMWUT 2019      |
-| 03/18/2020     | Di Wang              | Castillo, C., Mendoza, M., & Poblete, B. [Information credibility on twitter.](https://dl.acm.org/doi/10.1145/1963405.1963500) WWW 2011      |
-| 03/25/2020     | Cole Polychronis              | Wulf et al. [Fighting against the wall: social media use by political activists in a Palestinian village.](http://www.wineme.uni-siegen.de/paper/2013/p1979-wulf.pdf) CHI 2013      |
+| 03/25/2020     | Di Wang              | Castillo, C., Mendoza, M., & Poblete, B. [Information credibility on twitter.](https://dl.acm.org/doi/10.1145/1963405.1963500) WWW 2011      |
+| 04/01/2020     | Cole Polychronis              | Wulf et al. [Fighting against the wall: social media use by political activists in a Palestinian village.](http://www.wineme.uni-siegen.de/paper/2013/p1979-wulf.pdf) CHI 2013      |
 
 
 ### Mailing List
