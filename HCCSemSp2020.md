@@ -24,7 +24,8 @@ https://utah.zoom.us/j/322120569?pwd=dDBRZmNjK1VseDlYc1NHNmp4WlF1QT09
 | 02/26/2020     | Tamara Denning              | Shinohara et al. [Design for Social Accessibility Method Cards: Engaging Users and Reflecting on Social Scenarios for Accessible Design.](https://faculty.washington.edu/wobbrock/pubs/taccess-20.pdf) TACCESS 2020.      |
 | 03/04/2020     | Jason Wiese              | Schroeder, et al. [Examining Opportunities for Goal-Directed Self-Tracking to Support Chronic Condition Management.](https://dl.acm.org/doi/abs/10.1145/3369809) IMWUT 2019      |
 | 03/25/2020     | Di Wang              | Castillo, C., Mendoza, M., & Poblete, B. [Information credibility on twitter.](https://dl.acm.org/doi/10.1145/1963405.1963500) WWW 2011      |
-| 04/01/2020     | Cole Polychronis              | Wulf et al. [Fighting against the wall: social media use by political activists in a Palestinian village.](http://www.wineme.uni-siegen.de/paper/2013/p1979-wulf.pdf) CHI 2013      |
+| 04/01/2020     | Cole Polychronis              | Stewart, L. G., Arif, A., & Starbird, K. [Examining trolls and polarization with a retweet network.](https://faculty.washington.edu/kstarbi/examining-trolls-polarization.pdf) Proc. ACM WSDM, workshop on misinformation and misbehavior mining on the web.      |
+
 
 
 ### Mailing List
