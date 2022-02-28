@@ -14,6 +14,6 @@ Before developing my interdisciplinary focus, I studied Sociology at [University
 
 I am currently supervising following PhD students:
 
- - Di Wang
+ - [Di Wang](https://faculty.utah.edu/u1072369-DI_WANG/research/index.hml)
  - Cole Polychronis
  - Max Lisnic
