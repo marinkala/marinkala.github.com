@@ -11,3 +11,9 @@ My research interests are in Crisis Informatics, Social Computing, and Network S
 I completed my PhD in [Computer Science](https://www.colorado.edu/cs/) at the [University of Colorado Boulder](http://colorado.edu) in [Human Centered Computing](http://hcc.colorado.edu) under the advisement of Professor [Leysia Palen](http://cmci.colorado.edu/~palen/). Then I spent a year and a half as an Assistant Professor of [Computer Science](https://www.cs.unm.edu/) at [University of New Mexico](https://www.unm.edu/).
 
 Before developing my interdisciplinary focus, I studied Sociology at [University of Illinois at Urbana-Champaign](http://illinois.edu/) and worked as STEM education researcher at [Ethnography & Evaluation Research](http://www.colorado.edu/eer/).
+
+I am currently supervising following PhD students:
+
+ - Di Wang
+ - Cole Polychronis
+ - Max Lisnic
