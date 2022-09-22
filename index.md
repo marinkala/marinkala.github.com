@@ -15,5 +15,7 @@ Before developing my interdisciplinary focus, I studied Sociology at [University
 I am currently supervising following PhD students:
 
  - [Di Wang](https://faculty.utah.edu/u1072369-DI_WANG/research/index.hml)
- - Cole Polychronis
- - Max Lisnic
+ - [Cole Polychronis](https://colepolychronis.github.io)
+ - [Max Lisnic](https://mlisnic.github.io)
+ - [Khawar Murad Ahmed](https://faculty.utah.edu/u1369276-KHAWAR_MURAD_AHMED/contact/index.hml)
+ - Thomas Greger
