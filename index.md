@@ -12,5 +12,5 @@ I completed my PhD in [Computer Science](https://www.colorado.edu/cs/) at the [U
 
 Before developing my interdisciplinary focus, I studied Sociology at [University of Illinois at Urbana-Champaign](http://illinois.edu/) and worked as STEM education researcher at [Ethnography & Evaluation Research](http://www.colorado.edu/eer/).
 
-This is my personal site, highlihgting my reseach as a graduate student. For my current research at [University of Utah](https://www.utah.edu/), please take a look at the [MESA lab website](https://kogan-research.github.io/mesa-website/).
+This is my personal site, highlihgting my reseach as a graduate student. For my current research at [University of Utah](https://www.utah.edu/), please take a look at the [MESA lab website](https://kogan-research.github.io/mesa-website/publications/).
 
